@@ -1,5 +1,5 @@
 # Imgur-Roulette
-Simple Webapp to get random images on imgur
+Simple Webapp using Python and Flask to get random images on imgur
 
 [Demo](https://imgur-roulette--ichomchom.repl.co/)
 
